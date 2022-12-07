@@ -7869,7 +7869,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #fff !important;
+  color: #000 !important;
 }
 
 .text-black-50 {
@@ -11422,7 +11422,7 @@ p {
   font-size: 2.5rem;
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #fff;
+  color: #51585e;
 }
 .page-section h3.section-subheading, .page-section .section-subheading.h3 {
   font-size: 1rem;
@@ -11829,7 +11829,7 @@ header.masthead .masthead-heading {
 .team-member h4, .team-member .h4 {
   margin-top: 1.5rem;
   margin-bottom: 0;
-  color: #fff;
+  color: #41464b;
 }
 
 .img-brand {
