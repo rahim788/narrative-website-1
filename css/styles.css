@@ -11890,6 +11890,14 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: #ced4da;
 }
 
+/* Quote background */
+.bg-gradient-primary-to-secondary {
+  background: linear-gradient(45deg,) !important;
+}
+/* End of quote background */
+
+
+
 .footer {
   text-align: center;
   font-size: 0.9rem;
