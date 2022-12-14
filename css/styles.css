@@ -11947,9 +11947,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-left: 0;
   text-align: center;
   color: black;
-  border: 7px solid #e9ecef;
+  border: 15px solid #e9ecef;
   border-radius: 100%;
-  background-color: #ffc800;
+  background-color: #51585e;
 }
 .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
   font-size: 10px;
