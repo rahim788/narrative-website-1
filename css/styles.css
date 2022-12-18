@@ -7934,7 +7934,7 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  --bs-bg-opacity: 1;
+  --bs-bg-opacity: 5;
   background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
 }
 
@@ -11906,6 +11906,11 @@ section#contact form#contactForm :-ms-input-placeholder {
 /* Carousel End
 ------------------------- */
 
+
+
+
+
+
 /* Timeline styling from Agency template*/
 
 .timeline {
@@ -12085,6 +12090,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 /* Quote background */
 .bg-gradient-primary-to-secondary {
   background: linear-gradient(45deg,) !important;
+  
 }
 /* End of quote background */
 
